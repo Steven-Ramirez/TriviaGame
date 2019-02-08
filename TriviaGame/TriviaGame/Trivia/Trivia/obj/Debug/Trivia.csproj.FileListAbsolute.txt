@@ -1,7 +1,0 @@
-C:\Users\srami\Documents\Homework\OOP\TriviaGame\TriviaGame\Trivia\Trivia\bin\Debug\Trivia.exe.config
-C:\Users\srami\Documents\Homework\OOP\TriviaGame\TriviaGame\Trivia\Trivia\bin\Debug\Trivia.exe
-C:\Users\srami\Documents\Homework\OOP\TriviaGame\TriviaGame\Trivia\Trivia\bin\Debug\Trivia.pdb
-C:\Users\srami\Documents\Homework\OOP\TriviaGame\TriviaGame\Trivia\Trivia\obj\Debug\Trivia.csprojAssemblyReference.cache
-C:\Users\srami\Documents\Homework\OOP\TriviaGame\TriviaGame\Trivia\Trivia\obj\Debug\Trivia.csproj.CoreCompileInputs.cache
-C:\Users\srami\Documents\Homework\OOP\TriviaGame\TriviaGame\Trivia\Trivia\obj\Debug\Trivia.exe
-C:\Users\srami\Documents\Homework\OOP\TriviaGame\TriviaGame\Trivia\Trivia\obj\Debug\Trivia.pdb
