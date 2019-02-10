@@ -5,3 +5,10 @@ C:\Users\srami\Documents\Homework\OOP\TriviaGame\TriviaGame\Trivia\Trivia\obj\De
 C:\Users\srami\Documents\Homework\OOP\TriviaGame\TriviaGame\Trivia\Trivia\obj\Debug\Trivia.csproj.CoreCompileInputs.cache
 C:\Users\srami\Documents\Homework\OOP\TriviaGame\TriviaGame\Trivia\Trivia\obj\Debug\Trivia.exe
 C:\Users\srami\Documents\Homework\OOP\TriviaGame\TriviaGame\Trivia\Trivia\obj\Debug\Trivia.pdb
+C:\Users\sramirez140\Documents\GitHub\TriviaGame\Trivia\Trivia\bin\Debug\Trivia.exe.config
+C:\Users\sramirez140\Documents\GitHub\TriviaGame\Trivia\Trivia\bin\Debug\Trivia.exe
+C:\Users\sramirez140\Documents\GitHub\TriviaGame\Trivia\Trivia\bin\Debug\Trivia.pdb
+C:\Users\sramirez140\Documents\GitHub\TriviaGame\Trivia\Trivia\obj\Debug\Trivia.csprojAssemblyReference.cache
+C:\Users\sramirez140\Documents\GitHub\TriviaGame\Trivia\Trivia\obj\Debug\Trivia.csproj.CoreCompileInputs.cache
+C:\Users\sramirez140\Documents\GitHub\TriviaGame\Trivia\Trivia\obj\Debug\Trivia.exe
+C:\Users\sramirez140\Documents\GitHub\TriviaGame\Trivia\Trivia\obj\Debug\Trivia.pdb
