@@ -7,13 +7,8 @@ using System.IO;
 
 namespace Trivia
 {
-    public abstract class NewQuestions
-    {
-        public string newQuestion;
-        public string newAnswer;
-    }
 
-    class Questions : NewQuestions
+    class Questions
     {
         Questions()
         {
@@ -30,29 +25,40 @@ namespace Trivia
 
         public void Question()
         {
+
             List<string> history = new List<string>();
             string[] fileHistoryQuestions = File.ReadAllLines("History.txt"); // question from http://www.usefultrivia.com/history_trivia/index_iv.html
             history.AddRange(fileHistoryQuestions);
+
+            List<string> historyAnswers = new List<string>();
+            string[] fileHistoryAnswers = File.ReadAllLines("HistoryAnswers.txt"); // question from http://www.usefultrivia.com/history_trivia/index_iv.html
+            historyAnswers.AddRange(fileHistoryAnswers);
 
             List<string> geo = new List<string>();
             string[] fileGeoQuestions = File.ReadAllLines("Geo.txt"); // answers from http://www.usefultrivia.com/history_trivia/index_iv.html*/
             geo.AddRange(fileGeoQuestions);
 
+            List<string> geoAnswers = new List<string>();
+            string[] fileGeoAnswers = File.ReadAllLines("GeoAnswers.txt"); // question from http://www.usefultrivia.com/history_trivia/index_iv.html
+            geoAnswers.AddRange(fileGeoAnswers);
+
             List<string> music = new List<string>();
             string[] fileMusicQuestions = File.ReadAllLines("Music.txt"); // answers from http://www.usefultrivia.com/history_trivia/index_iv.html*/
             music.AddRange(fileMusicQuestions);
 
+            List<string> musicAnswers = new List<string>();
+            string[] fileMusicAnswers = File.ReadAllLines("MusicAnswers.txt"); // question from http://www.usefultrivia.com/history_trivia/index_iv.html
+            musicAnswers.AddRange(fileMusicAnswers);
+
+
+
         }
 
-        public void AddQuestions()
-        {
-
-        }
+       
         
 
 
 
-        //ArraySegment<String> questionsHist = new ArraySegment<String>(questions, 0, 4);
         //@"C:/Users/srami/Documents/Homework/OOP/TriviaGame/TriviaGame/Trivia/Trivia/Questions.txt"
     }
 }
