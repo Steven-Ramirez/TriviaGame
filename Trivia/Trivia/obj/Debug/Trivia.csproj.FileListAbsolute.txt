@@ -12,3 +12,10 @@ C:\Users\sramirez140\Documents\GitHub\TriviaGame\Trivia\Trivia\obj\Debug\Trivia.
 C:\Users\sramirez140\Documents\GitHub\TriviaGame\Trivia\Trivia\obj\Debug\Trivia.csproj.CoreCompileInputs.cache
 C:\Users\sramirez140\Documents\GitHub\TriviaGame\Trivia\Trivia\obj\Debug\Trivia.exe
 C:\Users\sramirez140\Documents\GitHub\TriviaGame\Trivia\Trivia\obj\Debug\Trivia.pdb
+C:\Users\srami\Documents\GitHub\TriviaGame\Trivia\Trivia\obj\Debug\Trivia.csprojAssemblyReference.cache
+C:\Users\srami\Documents\GitHub\TriviaGame\Trivia\Trivia\obj\Debug\Trivia.csproj.CoreCompileInputs.cache
+C:\Users\srami\Documents\GitHub\TriviaGame\Trivia\Trivia\obj\Debug\Trivia.exe
+C:\Users\srami\Documents\GitHub\TriviaGame\Trivia\Trivia\obj\Debug\Trivia.pdb
+C:\Users\srami\Documents\GitHub\TriviaGame\Trivia\Trivia\bin\Debug\Trivia.exe.config
+C:\Users\srami\Documents\GitHub\TriviaGame\Trivia\Trivia\bin\Debug\Trivia.exe
+C:\Users\srami\Documents\GitHub\TriviaGame\Trivia\Trivia\bin\Debug\Trivia.pdb
